@@ -3,3 +3,4 @@
 data/
 data/*
 results/*.pickle
+results/corpus.pickle_

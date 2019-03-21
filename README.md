@@ -9,6 +9,7 @@
 - `LDA_PCA_PERPLEXITY_MAIN.ipynb` - Preprocessing of Amazon dataset, [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis), plots, wordclouds, embeddings
 - `NMF_final.ipynb` - Implementation of [Non-negative matrix factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization)
 - `results` - mostly `*.pickle` files which are used by `*.ipynb` notebooks, and some `*.xlsx` files for NMF results. 
+- `nmf_tailoring` - `*.pickle` files and datasets for NMF
 
 Project type:
 Application/Original

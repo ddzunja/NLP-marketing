@@ -2,7 +2,13 @@
 
 ### Online harvesting of correspondence between brands and consumers' visual associations
 
- 
+#FILES
+
+- `Compare_LDA_from_sklearn_And_gensim.ipynb` - short compersament of `gensim` and `sklearn` LDA
+- `Download_datasets.ipynb` and `Download_files.py` - scripts for downloading Amazon datasets
+- `LDA_PCA_PERPLEXITY_MAIN.ipynb` - Preprocessing of Amazon dataset, LDA, PCA, plots, wordclouds, embeddings
+- `NMF_final.ipynb` - Implementation of [Non-negative matrix factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization)
+- `results` - mostly `*.pickle` files which are use by `.ipynb` notebooks, and some `*.xlsx` files for NMF results. 
 
 Project type:
 Application/Original

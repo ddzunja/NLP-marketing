@@ -2,4 +2,4 @@
 */.ipynb_checkpoints/*
 data/
 data/*
-results/*.pickle
+results/corpus.pickle

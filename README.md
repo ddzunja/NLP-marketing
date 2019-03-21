@@ -6,9 +6,9 @@
 
 - `Compare_LDA_from_sklearn_And_gensim.ipynb` - short compersament of `gensim` and `sklearn` LDA
 - `Download_datasets.ipynb` and `Download_files.py` - scripts for downloading Amazon datasets
-- `LDA_PCA_PERPLEXITY_MAIN.ipynb` - Preprocessing of Amazon dataset, LDA, PCA, plots, wordclouds, embeddings
+- `LDA_PCA_PERPLEXITY_MAIN.ipynb` - Preprocessing of Amazon dataset, [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis), plots, wordclouds, embeddings
 - `NMF_final.ipynb` - Implementation of [Non-negative matrix factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization)
-- `results` - mostly `*.pickle` files which are use by `.ipynb` notebooks, and some `*.xlsx` files for NMF results. 
+- `results` - mostly `*.pickle` files which are used by `*.ipynb` notebooks, and some `*.xlsx` files for NMF results. 
 
 Project type:
 Application/Original

@@ -2,7 +2,7 @@
 
 ### Online harvesting of correspondence between brands and consumers' visual associations
 
-#FILES
+#### FILES
 
 - `Compare_LDA_from_sklearn_And_gensim.ipynb` - short compersament of `gensim` and `sklearn` LDA
 - `Download_datasets.ipynb` and `Download_files.py` - scripts for downloading Amazon datasets
